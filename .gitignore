@@ -1,0 +1,3 @@
+dependencies/mongo/data/*
+go.sum
+go-todo-app
